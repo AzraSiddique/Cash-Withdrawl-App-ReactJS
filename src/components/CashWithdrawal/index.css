@@ -1,0 +1,73 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-container {
+  width: 60vw;
+  background-color: #150b3e;
+  border-radius: 20px;
+  margin: 30px;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-family: 'Roboto';
+}
+
+.name-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.s-letter {
+  background-color: #c7d2fe;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 100px;
+  font-size: 35px;
+  color: #7c3aed;
+  margin-right: 20px;
+}
+
+.heading {
+  font-size: 35px;
+  color: #d4d2db;
+  font-family: 'Roboto';
+}
+
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.balance-heading {
+  color: #382f5a;
+}
+
+.amount-withdrawn {
+  color: #d4d2db;
+  font-size: 37px;
+  font-weight: 500;
+}
+
+.in-rupees {
+  color: #382f5a;
+  font-size: 20px;
+}
+
+.choose-sum {
+  color: #382f5a;
+  font-size: 28px;
+}
+
+.btn-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

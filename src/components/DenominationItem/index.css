@@ -1,0 +1,14 @@
+.denomination-btn {
+  outline: none;
+  cursor: pointer;
+  padding: 9px;
+  font-size: 37px;
+  font-weight: 500;
+  background-color: #585076;
+  border-color: #d4d2db;
+  color: #d4d2db;
+  margin-right: 30px;
+  width: 280px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
